@@ -72,22 +72,22 @@ This database consists of the following tables:
 ---
 
 ## Example Queries
-1. "Show me all recipes available on the blog."                                 - Displays all recipes with their cuisine and time details.
-2. "I want to see only vegetarian recipes."                                     - User filters recipes by food category (Vegetarian).
-3. "What can I cook for breakfast?"                                             - Lists all recipes tagged under breakfast.
-4. "What recipes can I cook in 20 minutes or less?"                             - User filters recipes based on cooking time. Shows recipes with total prep + cook time ≤ 20 minutes.
-5. "I want to cook Pasta, show me its details."                                 - User searches for a specific recipe. Fetches details of recipes that have "Pasta" in their name.
-6. "What ingredients do I need to make 'Chocolate Cake'?"                       - User wants a list of ingredients for a specific recipe.
-7. "Which recipes use 'Tomato' as an ingredient?"                               - Display all recipes that include a specific ingredient.
-8. "What are the top 5 cuisines with the most recipes?"                         - Sort and Show the most popular cuisines.
-9. "Which recipe takes the longest to cook?"                                    - Find the most time-consuming recipe. 
-10. "I have only 2 ingredients: 'Eggs' and 'Milk'. What can I make?"            - Find recipes that use specific ingredients.
-11. "Show me a step-by-step guide for making 'Pizza'."                          - User requests cooking instructions for a recipe.
-12. "Which ingredients are used most often in recipes?"                         - Finds the 5 most commonly used ingredients.
-13. "What are the top 3 fastest recipes to cook?"                               - Look for the shortest cooking time recipes.
-14. "Suggest me some easy recipes with 5 or fewer ingredients."                 - Display recipes based on count of ingredients.
-15. "Show me all Indian recipes that are suitable for dinner."                  - User multiple filters recipes (by cuisine and meal type).
-16. "I want to remove a recipe- Fruit Salad completely from the database."      - Completely removes the recipe and its dependencies.
+1. "Show me all recipes available on the blog."                                 
+2. "I want to see only vegetarian recipes."                                     
+3. "What can I cook for breakfast?"                                            
+4. "What recipes can I cook in 20 minutes or less?"                             
+5. "I want to cook Pasta, show me its details."                                 
+6. "What ingredients do I need to make 'Chocolate Cake'?"                       
+7. "Which recipes use 'Tomato' as an ingredient?"                               
+8. "What are the top 5 cuisines with the most recipes?"                         
+9. "Which recipe takes the longest to cook?"                                    
+10. "I have only 2 ingredients: 'Eggs' and 'Milk'. What can I make?"           
+11. "Show me a step-by-step guide for making 'Pizza'."                          
+12. "Which ingredients are used most often in recipes?"                         
+13. "What are the top 3 fastest recipes to cook?"                            
+14. "Suggest me some easy recipes with 5 or fewer ingredients."                
+15. "Show me all Indian recipes that are suitable for dinner."                
+16. "I want to remove a recipe- Fruit Salad completely from the database."    
 
 ---
 
